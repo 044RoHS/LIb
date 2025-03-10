@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(cmake_project1)
+set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
+add_library(DynamicLib SHARED Dynamic.cpp Dynamic.h)
+add_executable(cmake_project1 main.cpp)
+target_link_libraries(cmake_project1 DynamicLib)

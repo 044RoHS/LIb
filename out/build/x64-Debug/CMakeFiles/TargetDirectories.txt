@@ -1,0 +1,4 @@
+C:/Users/Артём/Desktop/CMake1/out/build/x64-Debug/CMakeFiles/DynamicLib.dir
+C:/Users/Артём/Desktop/CMake1/out/build/x64-Debug/CMakeFiles/cmake_project1.dir
+C:/Users/Артём/Desktop/CMake1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Артём/Desktop/CMake1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
