@@ -1,6 +1,0 @@
-# ninja log v6
-36	933	7633506192265948	CMakeFiles/cmake_project1.dir/main.cpp.obj	376cb6ac1988f138
-24	943	7633506192155931	CMakeFiles/DynamicLib.dir/Dynamic.cpp.obj	f239bf99f73d165c
-944	1528	7633506206789215	DynamicLib.dll	8b67c852bb2a81e
-944	1528	7633506206789215	DynamicLib.lib	8b67c852bb2a81e
-1529	2020	7633506207189299	cmake_project1.exe	e54376ed56308138
